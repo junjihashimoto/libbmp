@@ -1,4 +1,4 @@
 libbmp
 ======
 
-c++ library for dealing wit bmp,png and jpeg
+c++ library for dealing with bmp,png and jpeg
